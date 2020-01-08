@@ -1,3 +1,6 @@
+AUTHOR:
+	David J. Lambert
+
 SUMMARY:
 	Documentation I wrote while employed at TransLattice, Inc.
 	https://github.com/DavidJLambert/TransLatticeDocs
@@ -6,9 +9,6 @@ SUMMARY:
 	This database was released as the open-source project Postgres-XL (www.postgres-xl.org).
 
 	TransLattice also developed the "TransLattice Automation Kit", an API for the TransLattice Elastic Database.
-
-AUTHOR:
-	David J. Lambert
 
 DATE:
 	2012 and 2013
@@ -25,5 +25,6 @@ DESCRIPTION:
 		"tak_sample.py" (a Jython script for exercising the "TransLattice Automation Kit")
 		"nodeinfo.py" (a Jython script imported by tak_sample.py).
 		"TransLattice Application Platform Info and Troubleshooting.pdf"
+	TransLatticeDocs.zip is a zip file containing all the files above (for your convenience).
 
 END OF FILE
